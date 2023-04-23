@@ -3,7 +3,7 @@ package com.Restaurant.restaurant.controller;
 import com.Restaurant.restaurant.service.service;
 import com.Restaurant.restaurant.dto.restaurantDto;
 import com.Restaurant.restaurant.dto.restaurantSaveDTO;
-import com.Restaurant.restaurant.service.service;
+import com.Restaurant.restaurant.dto.restaurantUpdateDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
